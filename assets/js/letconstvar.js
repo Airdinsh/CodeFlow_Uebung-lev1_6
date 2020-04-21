@@ -1,18 +1,18 @@
 /* Code Flow Übung 1_6 */
 
-/* var z = 34;
+var z = 34;
 z = 67
-console.log(z); */
+console.log(z);
 
-/* let x = 34;
+let x = 34;
 x = 67;
-console.log(x); */
+console.log(x);
 
 // die Variablen let und var können sich nach neuer definition oder berechnungen des wertes etc ändern
 
-/* const y = 34;
+const y = 34;
 y = 67;
-console.log(y); */
+console.log(y);
 // eine Konstante kann nicht verändert werden
 
 
